@@ -38,5 +38,3 @@ License
 This project is licensed under the MIT License.
 
 
-
-Feel free to customize it further to suit your project's specific details and requ
